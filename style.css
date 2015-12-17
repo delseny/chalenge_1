@@ -5,3 +5,99 @@
   margin: 0;
   padding: 0;
 }
+body {
+  background-image: url(bg.jpg);
+  background-size: cover;
+}
+
+nav {
+  width: 1020px;
+  height: 60px;
+  border: solid 2px black;
+  margin: auto;
+  background-color: black;
+}
+
+ul li {
+  list-style-type: none;
+  font-size: 18px;
+  color: white;
+  background-color: black;
+  display: inline;
+  margin-left: 20px;
+}
+
+ul {
+  text-align: center;
+  margin-top: 15px;
+}
+
+header {
+  width: 1020px;
+  320px;
+  border: solid 2px black;
+  margin: auto;
+  background-color: black;
+}
+
+h1 {
+  font-size: 133px;
+  color: #cfa205;
+  text-align: center;
+}
+
+h3 {
+  font-size: 18px;
+  color: #7a7a7a;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.icone {
+  width: 1020px;
+  height: 60px;
+  background-color: #e8e8e8;
+  margin: auto;
+  
+}
+
+.partie2 {
+  width: 1020px;
+  height: 960px;
+  margin: auto;
+}
+
+.haut {
+  width: 900;
+  height: 90px;
+  border: solid 2px black;
+  margin: auto;
+  margin-top: 50px;
+}
+
+article {
+  width: 260px;
+  height: 480px;
+  border: solid 2px black;
+  display: inline-block;
+  margin-left: 60px;
+  margin-top: 100px;
+}
+
+.un {
+  width: 260px;
+  height: 195px;
+  border:solid 2px black;
+}
+
+.deux {
+  width: 260px;
+  height: 195px;
+  border:solid 2px black;
+}
+
+.trois {
+  width: 260px;
+  height: 195px;
+  border:solid 2px black;
+}
